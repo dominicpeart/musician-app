@@ -21,7 +21,3 @@ EXPOSE 3000
 
 # Start the Node.js application using nodemon
 CMD [ "nodemon", "app.js" ]
-
-
-
-
