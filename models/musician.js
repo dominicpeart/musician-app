@@ -1,4 +1,4 @@
-// model object with methods for store CRUD operations
+// model object with methods for store CRUD operations!
 class Musician {
 
   constructor(store) {
