@@ -1,6 +1,9 @@
 # Use the official Node.js 14 base image
 FROM node:14-alpine
-LABEL author=“Dominic Peart”
+
+#Adds extra information or labels to the docker image
+LABEL author="Dominic Peart"
+
 # Set the working directory in the container
 WORKDIR /app
 
