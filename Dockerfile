@@ -1,6 +1,6 @@
 # Use the official Node.js 14 base image
 FROM node:14-alpine
-
+LABEL author=“Dominic Peart”
 # Set the working directory in the container
 WORKDIR /app
 
